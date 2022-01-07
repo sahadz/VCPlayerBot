@@ -192,7 +192,7 @@ async def repo_(client, message):
             InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/Roboticted'),     
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
+          #  InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
